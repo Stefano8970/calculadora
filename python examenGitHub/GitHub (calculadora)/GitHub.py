@@ -8,6 +8,7 @@ while True:
             2- Restar
             3- Multiplicar
             4- dividir 
+            5- salir
         """)
 
     valor = int(input("Elige una opcion: ") )     
